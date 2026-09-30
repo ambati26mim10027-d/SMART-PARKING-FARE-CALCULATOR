@@ -32,10 +32,10 @@ Try running the program with these examples to check it works properly:
 
 | Test | What to enter | What should happen |
 |------|----------------|---------------------|
-| Normal 2-wheeler | Vehicle type `2`, hours `3` | Fare shows as â‚¹180 |
-| Normal 4-wheeler | Vehicle type `4`, hours `2` | Fare shows as â‚¹160 |
-| Part-hour | Vehicle type `2`, hours `2.5` | Rounds up to 3 hours, fare â‚¹180 |
-| Long stay | Vehicle type `3`, hours `13` | Flat fare of â‚¹1800 |
+| Normal 2-wheeler | Vehicle type `2`, hours `3` | Fare shows as 180 |
+| Normal 4-wheeler | Vehicle type `4`, hours `2` | Fare shows as 160 |
+| Part-hour | Vehicle type `2`, hours `2.5` | Rounds up to 3 hours, fare 180 |
+| Long stay | Vehicle type `3`, hours `13` | Flat fare of 1800 |
 | Too long | Vehicle type `2`, hours `25` | Message saying parking isn't allowed |
 | Zero hours | Vehicle type `2`, hours `0` | Message saying hours must be greater than 0 |
 | Wrong vehicle type | Vehicle type `9`, hours `3` | Message saying the vehicle type is invalid |
