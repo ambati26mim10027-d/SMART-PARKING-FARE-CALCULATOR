@@ -1,5 +1,4 @@
 Parking Fare Calculator
-
 ## Overview
 This is a simple Python program that works out how much someone has to pay for parking. The user types in their name, their license plate number, what type of vehicle they have, and how many hours they parked for. The program then works out the total fare and prints it on the screen.
 
@@ -45,12 +44,9 @@ Try running the program with these examples to check it works properly:
 ## Screenshots
 
 Tests:
-1. 
-<img width="572" height="168" alt="Screenshot 2026-09-30 210657" src="https://github.com/user-attachments/assets/2335b9b1-d700-49d5-8de2-5fa8feee9353" />
-2.
-<img width="1177" height="186" alt="Screenshot 2026-09-30 210330" src="https://github.com/user-attachments/assets/849f22e5-9b2e-447c-bb15-2840a53a1636" />
-3.
-<img width="607" height="212" alt="Screenshot 2026-09-30 210257" src="https://github.com/user-attachments/assets/91ba7cc0-b149-4e82-b6f4-b5144364bc12" />
+1.<img width="572" height="168" alt="Screenshot 2026-09-30 210657" src="https://github.com/user-attachments/assets/2335b9b1-d700-49d5-8de2-5fa8feee9353" />
+2.<img width="1177" height="186" alt="Screenshot 2026-09-30 210330" src="https://github.com/user-attachments/assets/849f22e5-9b2e-447c-bb15-2840a53a1636" />
+3.<img width="607" height="212" alt="Screenshot 2026-09-30 210257" src="https://github.com/user-attachments/assets/91ba7cc0-b149-4e82-b6f4-b5144364bc12" />
 
 Invalid user:
 <img width="812" height="190" alt="Screenshot 2026-09-30 214129" src="https://github.com/user-attachments/assets/c176efa1-e814-4354-90e3-c106a1b36ebb" />
