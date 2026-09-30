@@ -42,4 +42,5 @@ Try running the program with these examples to check it works properly:
 | Wrong vehicle type | Vehicle type `9`, hours `3` | Message saying the vehicle type is invalid |
 | Wrong input | Type letters instead of a number for hours | Message asking for a valid number |
 
+<img width="976" height="766" alt="Screenshot 2026-09-28 222949" src="https://github.com/user-attachments/assets/8ad5fb63-ae5a-4520-ad5c-10da971f3e38" />
 
