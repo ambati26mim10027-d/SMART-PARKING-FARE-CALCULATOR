@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+data/tickets.csv
+logs/*.log
