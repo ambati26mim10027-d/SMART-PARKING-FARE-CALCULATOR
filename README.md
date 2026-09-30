@@ -42,5 +42,22 @@ Try running the program with these examples to check it works properly:
 | Wrong vehicle type | Vehicle type `9`, hours `3` | Message saying the vehicle type is invalid |
 | Wrong input | Type letters instead of a number for hours | Message asking for a valid number |
 
-<img width="976" height="766" alt="Screenshot 2026-09-28 222949" src="https://github.com/user-attachments/assets/8ad5fb63-ae5a-4520-ad5c-10da971f3e38" />
+## Screenshots
+
+Tests:
+1. <img width="572" height="168" alt="Screenshot 2026-09-30 210657" src="https://github.com/user-attachments/assets/2335b9b1-d700-49d5-8de2-5fa8feee9353" />
+2. <img width="1177" height="186" alt="Screenshot 2026-09-30 210330" src="https://github.com/user-attachments/assets/849f22e5-9b2e-447c-bb15-2840a53a1636" />
+3. <img width="607" height="212" alt="Screenshot 2026-09-30 210257" src="https://github.com/user-attachments/assets/91ba7cc0-b149-4e82-b6f4-b5144364bc12" />
+
+Invalid user:
+<img width="812" height="190" alt="Screenshot 2026-09-30 214129" src="https://github.com/user-attachments/assets/c176efa1-e814-4354-90e3-c106a1b36ebb" />
+
+Invalid input:
+<img width="812" height="190" alt="Screenshot 2026-09-30 214129" src="https://github.com/user-attachments/assets/7a517d51-08f3-400d-ad25-bc72fbc0f9d6" />
+
+Final Result:
+<img width="850" height="275" alt="Screenshot 2026-09-30 212311" src="https://github.com/user-attachments/assets/5e84b10e-78e7-4586-bd20-7543e2b56e89" />
+
+
+
 
