@@ -5,8 +5,8 @@ This is a simple Python program that works out how much someone has to pay for p
 ## Features
 - Asks the driver for their name and license plate number
 - Works out the parking fare based on vehicle type:
-  - 2-wheelers:60 per hour
-  - 3 or 4-wheelers:80 per hour
+  - 2-wheelers: 60 per hour
+  - 3 or 4-wheelers: 80 per hour
 - Rounds part-hours up to the next full hour (so 1.5 hours counts as 2 hours)
 - Charges a flat rate of 1800 if you park for more than 12 hours
 - Stops you from parking for more than 24 hours
